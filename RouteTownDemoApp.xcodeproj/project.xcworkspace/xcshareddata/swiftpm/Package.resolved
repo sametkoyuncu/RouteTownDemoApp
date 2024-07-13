@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "routetown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sametkoyuncu/RouteTown",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c5993757803efb94edd0a697d5178514bfb9b94a"
+      }
+    }
+  ],
+  "version" : 2
+}
